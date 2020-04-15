@@ -24,9 +24,26 @@
 
     \section{Technology and Project Breakdown}
     
-    \subsection{Companies}
+    \subsection{The Approach}
+    The innovation hub is designed to be self-sustaining, and helpful for businesses, so they can easily support the environment by purchasing products that are made from recyclables and other resources. In addition, opportunities will be made available for businesses to contribute to the hub, with the added benefit of creating employment opportunities for the economy.
+
+    Essentially, the approach involves Contributors gathering resources from various locations, to be collected by the Collectors. They will then take the materials, and pay the contributors based on their contribution amounts. From here, Plastic Manufacturers will pay for the resources, and process/manufacture finished goods. The Logistics companies will then deal with the sales, and transport of these products to be sold to client businesses. Furthermore, these businesses sell to customers, starting the cycle once again, as the customers become Contributors.
+
+    There will be three main components to the innovation hub project, Contributors, Collectors, Plastic Manufacturers and Logistic Companies.
+
+    \subsection{Contributors}
+    With a target demographic of ‘every day people’, almost everyone is a potential candidate to become a contributor. These people will provide the waste, to be used as raw resources to begin the process.
+
+    Various companies could be brought into this part of the hub, including advertising or incentive based businesses, or any companies that could make it easier for contributors to recycle. For example, to maximise the efficiency of the recycling process we are partnering with smart bin technology companies. Smart bin technology involves fitting fill-level sensors to report the capacity of the bin. This can be used to provide data insights tracking the capacity of the bin and coupled with garbage collection fleet data enabling the use of predictive technology to optimise route planning for bin collection and reducing associated costs. In addition to this we are also allowing the inclusion of [insert example for reward system to make people recycle, e.g. apps/competitions etc.]
+
+    \subsection{Collectors}
+    This aspect of the project relates to the businesses dedicated to gathering materials and resources for the plastic manufacturers. This includes resources such as the plastics recycled by the community.
     
-    \subsection{Technology}
+    \subsection{Plastic Manufacturers}
+    Plastic Manufacturers are a key element of the project, working as the intermediary processor of resources to prepare them for selling.
+    
+    \subsection{Logistics}
+    Focused on selling and transporting the goods to clients, this part of the hub is concerned with the more traditional aspects of business, and is the main point of contact for customers looking to purchase finished goods.
     
     
     \section{Finance and Funding}
