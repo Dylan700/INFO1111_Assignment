@@ -9,22 +9,35 @@
 \usepackage[colorlinks, linkcolor=black, anchorcolor=black, citecolor=black]{hyperref}
 \usepackage{graphicx}
 \setlength{\parskip}{0.5em}
-\title{Place Your Project Title at Here}
+\title{I.T. Social Innovation Hub Report}
 \author{\textup{Cindy Um}}
 \begin{document}
     \input{title/title.tex}
     \tableofcontents
     \newpage
 
-    \section{Abstract}
-
     \section{Introduction}
 
-    \section{Body Content}
+    \section{Business Background}
 
-    \section{Results and Discussion}
+    \section{Benefits of the Initiative}
+
+    \section{Technology and Project Breakdown}
     
-    \section{Conclusion}
+    \subsection{Companies}
+    
+    \subsection{Technology}
+    
+    
+    \section{Finance and Funding}
+    
+    \section{Innovation Hub Skills}
+    
+    \section{Emerging Technologies}
+    
+    \section{Setup Costs}
+    
+    \section{Project Risks}
 
     \bibliographystyle{ieeetrans}
     \bibliography{Assignment_Ref}
