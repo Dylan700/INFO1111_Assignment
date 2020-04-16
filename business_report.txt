@@ -38,6 +38,9 @@
 
     \subsection{Collectors}
     This aspect of the project relates to the businesses dedicated to gathering materials and resources for the plastic manufacturers. This includes resources such as the plastics recycled by the community.
+
+    Technologies that will assist this particular stage include data systems to record resource amounts that contributors gather. Using linear barcoding to store information (such as account numbers), a system to track and pay contributors based on their contribution amount will be utilized. Linear Barcodes will be used to scan customer ids on their bin, to be associated with an account. In comparison to QR codes – which can hold more information – linear barcodes will be preferred as the required scanning equipment is of lower expense (needing only 1D scanners), and these barcodes are more reliable when scratched or damaged. Hence, label manufacturers and data companies will be required to produce these barcodes, and develop systems to integrate with the hub.
+
     
     \subsection{Plastic Manufacturers}
     Plastic Manufacturers are a key element of the project, working as the intermediary processor of resources to prepare them for selling.
