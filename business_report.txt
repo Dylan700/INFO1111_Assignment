@@ -44,9 +44,14 @@
     
     \subsection{Plastic Manufacturers}
     Plastic Manufacturers are a key element of the project, working as the intermediary processor of resources to prepare them for selling.
+ 
+   Technology is key in increasing the quality of recycled plastic, and the efficiency of the recycling process. According to a study at Chalmers University, all kinds of plastics can be recycled. The research group led by Henrik Thunman, Professor of Energy Technology, introduces the circular use of plastic, which perfectly fits the purpose of the hub. Using this technology, recycling the plastic that is collected will allow it to be processed into brand new products.
     
     \subsection{Logistics}
     Focused on selling and transporting the goods to clients, this part of the hub is concerned with the more traditional aspects of business, and is the main point of contact for customers looking to purchase finished goods.
+  
+In addition to this, the logistics component will take part in this cycle by transporting the waste to the hub, and then distributing the plastic products that are produced. Data shows that China is the country that consumes the most plastic; ranked first place for total plastic waste by country, which was up to 75%.
+Source of data:https://ourworldindata.org/plastic-pollution#total-plastic-waste-by-country
     
     
     \section{Finance and Funding}
